@@ -1,0 +1,18 @@
+.css-st-emotion-cache-0 e1f1d6gn0 {
+    padding: 1rem;
+    border-radius: 0.5rem;
+    background-color: aqua;
+}
+.diagnosis {
+    color: aliceblue;
+    padding: 0.2em 0.5em;
+    border-radius: 0.5em;
+}
+
+.diagnosis.benign {
+    background-color: chartreuse;
+}
+
+.diagnosis.malignant {
+    background-color: crimson;
+}
